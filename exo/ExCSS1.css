@@ -1,0 +1,23 @@
+div.UP{
+    width:600px;
+	height:50px;
+	background-color:#00CCFF;
+}
+
+div.MID{
+    width:600px;
+	height:400px;
+	background-color:#FFCC00;
+}
+
+div.BOT{
+    width:600px;
+	height:50px;
+	background-color:#33FF99;
+}
+
+#test1{
+    height: 70px;
+    color: blue;
+    text-align: center;
+}
