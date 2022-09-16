@@ -26,11 +26,11 @@ div.menu {
 #test1{
     color: red;
     margin-top: 0px;
-    height: 30px;
+    font-size: 20px;
 }
 
 #test2{
     color: blue;
     margin-top: 0px;
-    height: 20px;
+    font-size: 30px;
 }
