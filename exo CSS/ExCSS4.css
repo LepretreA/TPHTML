@@ -1,17 +1,17 @@
 div.UP{
-    width:600px;
+    width:100%;
 	height:50px;
 	background-color:#00CCFF;
 }
 
 div.MID{
-    width:600px;
-	height:400px;
+    width:100%;
+	height:850px;
 	background-color:#FFCC00;
 }
 
 div.BOT{
-    width:600px;
+    width:100%;
 	height:50px;
 	background-color:#33FF99;
 }
@@ -19,7 +19,7 @@ div.BOT{
 div.menu {
 	float:left;
 	width:100px;
-	height:400px;
+	height:850px;
 	background-color:#FF6699;
 	}
 
@@ -33,21 +33,22 @@ div.menu {
     color: blue;
     margin-top: 0px;
     font-size: 30px;
+	
 }
 
 div.menuhaut {
 	width:100px;
-	height:200px;
+	height:425px;
 	background-color:#66CC33;
 }
 
 div.menubas {
 	width:100px;
-	height:200px;
+	height:425px;
 	background-color:#CC99CC;
 	}
 
-div.blocnews {
+div#blocnews {
     float:right;
     width:150px;
     height:150px;
