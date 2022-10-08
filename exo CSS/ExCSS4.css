@@ -50,7 +50,11 @@ div.menubas {
 
 div#blocnews {
     float:right;
-    width:150px;
-    height:150px;
+    width:300px;
+    height:200px;
     background-color:#FF3300;    
+}
+
+#margin{
+    margin-top: 0px;
 }

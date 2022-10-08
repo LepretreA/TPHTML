@@ -46,4 +46,8 @@ div.menubas {
 	width:100px;
 	height:425px;
 	background-color:#CC99CC;
-	}
+}
+
+#margin{
+	margin-top: 0px;
+}
